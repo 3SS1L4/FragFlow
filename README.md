@@ -61,7 +61,7 @@ fragflow/
 1. Clone le dépôt :
 
    ```bash
-   git clone https://github.com/your-username/fragflow.git
+   git clone https://github.com/3SS1L4/fragflow.git
    ```
 2. Ouvre avec **Android Studio**
 3. Synchronise Gradle
