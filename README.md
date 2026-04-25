@@ -144,7 +144,3 @@ fragflow/
 ## 👨‍💻 Auteur
 
 **AMSOU ISMAIL**  - Lab de développement mobile
-
-
-https://github.com/user-attachments/assets/8e065173-4a0a-48de-a256-4b9d9a32b0a9
-
